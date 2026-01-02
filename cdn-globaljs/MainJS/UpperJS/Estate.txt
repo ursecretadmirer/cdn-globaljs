@@ -411,7 +411,7 @@
   (function () {
     const ts = Date.now();
     const s = document.createElement('script');
-    s.src = 'hhttps://cdn.jsdelivr.net/gh/ursecretadmirer/cdn-globaljs@main/cdn-globaljs/MainJS/UpperJS/Request.JS?v=' + ts;
+    s.src = 'https://cdn.jsdelivr.net/gh/ursecretadmirer/cdn-globaljs@main/cdn-globaljs/MainJS/UpperJS/Request.JS?v=' + ts;
     s.defer = true;
     document.body.appendChild(s);
   })();
